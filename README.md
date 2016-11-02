@@ -102,7 +102,7 @@ Each column would be very narrow and probably not able to fit much content. If w
 ```
 Notice how instead of 12 `<div>` tags with the CSS class `col-lg-1` we use 2 `<div>` tags with the CSS class `col-lg-6`. The combined total of these two columns is still 12. This is an important aspect of Bootstrap. We should always be able to add the columns together to get a total of 12.
 
-From here, there are a lot of different ways we could configure our grid to respond to different screen sizes in different ways. Refer back to the documentation and examples to help.
+From here, there are a lot of different ways we could configure our grid to respond to different screen sizes in different ways. Refer back to the documentation and examples for help.
 
 ## References
 - [Twitter Bootstrap](http://getbootstrap.com/)
@@ -110,3 +110,5 @@ From here, there are a lot of different ways we could configure our grid to resp
 - [media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/bootstrap-asset-pipeline' title='Bootstrap Asset Pipeline'>Bootstrap Asset Pipeline</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/bootstrap-asset-pipeline'>Bootstrap and the Asset Pipeline</a> on Learn.co and start learning to code for free.</p>
