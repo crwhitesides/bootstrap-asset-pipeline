@@ -5,7 +5,7 @@
 1. Identify the components included in bootstrap (namely the CSS and JS required to integrate bootstrap - two main files compressed and minified composed of individual parts).
 2. Integrate Bootstrap manually with CDN (not preferred way).
 3. Use the bootstrap gem and add the correct requires to your manifest.
-4. Rely on bootstrap provided CSS and javascript to power the frontend.
+4. Rely on bootstrap-provided CSS and javascript to power the frontend.
 
 ## Outline
 Starting a web application can be overwhelming. There are so many decisions to make that it can be hard to manage. The last thing we want is to make a great application that looks terrible and doesn't respond to well to different screen sizes. It would be great if we could just add something to our application that made structuring our UI as easy as Rails makes everything else. [Twitter Bootstrap](http://getbootstrap.com/) does just that. It's a grid-based CSS framework that provides the ability to create great looking, responsive websites.
@@ -110,3 +110,5 @@ From here, there are a lot of different ways we could configure our grid to resp
 - [media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/bootstrap-asset-pipeline' title='Bootstrap Asset Pipeline'>Bootstrap Asset Pipeline</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/bootstrap-asset-pipeline'>Bootstrap and the Asset Pipeline</a> on Learn.co and start learning to code for free.</p>
